@@ -1,12 +1,12 @@
 ### [中文版 (Chinese)](./README-zh_cn.md)
 
 ## MyTopling Document
-* Wiki: [Home](https://github.com/topling/mytopling/wiki) describe how to build and run MyTopling
-* Wiki: [Compatibility To MyRocks](https://github.com/topling/mytopling/wiki/Compatibility-To-MyRocks)
+* Wiki: [Home](https://github.com/topling/mytopling-wiki-en/wiki) describe how to build and run MyTopling
+* Wiki: [Compatibility To MyRocks](https://github.com/topling/mytopling-wiki-en/wiki/Compatibility-To-MyRocks)
 * [MyTopling README](./README.mytopling.md)
 
 ## Performance comparison between MyTopling and other MySQL (sysbench)
-Note: The original sysbench can only generate data randomly, our [modified version of sysbench](https://github.com/topling/sysbench) adds the function of loading real data from files. Wikipedia data is used in this test. For more information, see [Comparison Test](https://github.com/topling/mytopling/wiki/MyTopling-Sysbench-With-Other-MySQL).
+Note: The original sysbench can only generate data randomly, our [modified version of sysbench](https://github.com/topling/sysbench) adds the function of loading real data from files. Wikipedia data is used in this test. For more information, see [Comparison Test](https://github.com/topling/mytopling-wiki-en/wiki/MyTopling-Sysbench-With-Other-MySQL).
 
 ![image](https://user-images.githubusercontent.com/54310035/218080504-c77b152c-72eb-4560-8e83-08a2eb3c4646.png)
 
